@@ -7,18 +7,23 @@ BMI - an application to calculate **Body Mass Index (BMI)**. The application bui
 
 Features available:
 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [x] Interactive UI
+- [x] Smooth Slider
+- [x] Interaction Button
+- [x] Accurate BMI Result 
+- [x] Advice Messages
+- [ ] Create an User Profile
+- [ ] Store BMI History
 
 ## :gear: Prerequisites
 * Flutter
 * Dart
-* IDE (Android Studio / vsCode / xCode)
+* IDE (*one from below*)
+    * Android Studio (*Recommend*)
+    * Visual Studio Code
+    * Xcode (*Mac*)
 
-## :envelope_with_arrow: Dependancies
+## :envelope_with_arrow: Install
 * Flutter : [Flutter](https://flutter.dev/)
 * Android Studio : [Android Studio](https://developer.android.com/studio/?gclsrc=ds&gclsrc=ds)
 * Visual Studio Code : [Visual Studio Code](https://code.visualstudio.com/)
