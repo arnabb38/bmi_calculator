@@ -28,9 +28,9 @@ Features available:
 * Android Studio : [Android Studio](https://developer.android.com/studio/?gclsrc=ds&gclsrc=ds)
 * Visual Studio Code : [Visual Studio Code](https://code.visualstudio.com/)
 
-## :hammer: Build APK
+## :hammer: APK
 
-Build APK can be found here... [BMI](https://github.com/arnabb38/bmi_calculator)
+Released application (***APK file***) can be found here... [BMI](https://github.com/arnabb38/bmi_calculator)
 
 ## :bust_in_silhouette: Author
 ### Arnab Basak
